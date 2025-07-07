@@ -33,13 +33,12 @@ Contoh query:
 -- Mengambil semua produk dalam kategori 'elektronik'
 SELECT* FROM produk WHERE kategori = 'elektronik';
 
-
+```
 JSON (JavaScript Object Notation)
 JSON adalah format yang digunakan untuk mentransfer data, terutama dalam komunikasi antara client dan server.
 
 Contoh struktur JSON:
 
-```
 {
   "id": 101,
   "nama": "Laptop Lenovo",
