@@ -46,7 +46,7 @@ Contoh struktur JSON:
   "kategori": "elektronik",
   "harga": 7500000
 }
-```
+
 
 Sebagai QA, saya menggunakan JSON untuk:
 
@@ -67,16 +67,16 @@ API adalah jembatan komunikasi antara dua sistem atau layanan. Dalam konteks tes
 
 Contoh request:
 
-```
+
 GET /api/produk/101
-```
-```
+
+
 {
   "id": 101,
   "nama": "Laptop Lenovo",
   "kategori": "elektronik"
 }
-```
+
 
 
 
