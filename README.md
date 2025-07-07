@@ -50,20 +50,21 @@ Contoh struktur JSON:
 
 Sebagai QA, saya menggunakan JSON untuk:
 
-Memahami struktur respons API
+1. Memahami struktur respons API
 
-Melakukan validasi nilai pada key tertentu
+2. Melakukan validasi nilai pada key tertentu
 
-Membuat payload saat melakukan request API otomatis
+3. Membuat payload saat melakukan request API otomatis
 
-API (Application Programming Interface)
+## API (Application Programming Interface)
+
 API adalah jembatan komunikasi antara dua sistem atau layanan. Dalam konteks testing:
 
- QA menggunakan API untuk memastikan bahwa backend berfungsi sesuai ekspektasi.
+1. QA menggunakan API untuk memastikan bahwa backend berfungsi sesuai ekspektasi.
 
- Diuji menggunakan tools seperti Postman, Rest Assured, atau cURL.
+2. Diuji menggunakan tools seperti Postman, Rest Assured, atau cURL.
 
- Digunakan untuk validasi data, response code, dan integritas sistem.
+3. Digunakan untuk validasi data, response code, dan integritas sistem.
 
 Contoh request:
 
