@@ -39,13 +39,14 @@ JSON adalah format yang digunakan untuk mentransfer data, terutama dalam komunik
 
 Contoh struktur JSON:
 
+```
 {
   "id": 101,
   "nama": "Laptop Lenovo",
   "kategori": "elektronik",
   "harga": 7500000
 }
-
+```
 
 Sebagai QA, saya menggunakan JSON untuk:
 
@@ -66,9 +67,10 @@ API adalah jembatan komunikasi antara dua sistem atau layanan. Dalam konteks tes
 
 Contoh request:
 
-
+```
 GET /api/produk/101
-
+```
+```
 
 {
   "id": 101,
@@ -76,7 +78,7 @@ GET /api/produk/101
   "kategori": "elektronik"
 }
 
-
+```
 
 
 
